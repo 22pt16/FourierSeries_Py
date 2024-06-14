@@ -135,11 +135,6 @@ Do you wish to plot the function (y/n): y
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-
-en Fourier series of function sin(x) is:
-...
-
-Do you wish to plot the function (y/n): y
 ```
 
 ## License
